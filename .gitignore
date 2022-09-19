@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+MaxAB Case Study.mp4
+iframe_figures/
 
 # C extensions
 *.so
